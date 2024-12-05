@@ -31,6 +31,8 @@ func main() {
 	fmt.Println("y=", y)
 	fmt.Println("n4=", n4)
 	fmt.Println("PB=",PB)
+    c := 2;
+    fmt.Printf("c",c)
 }
 
 func foo() (int, string) {
